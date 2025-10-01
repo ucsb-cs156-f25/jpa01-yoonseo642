@@ -1,7 +1,6 @@
 # jpa01-yoonseo642
 
-https://jpa01-yoonseo642.dokku-13.cs.ucsb.edu
-
+Deployed at: https://jpa01-yoonseo642.dokku-13.cs.ucsb.edu
 
 # About this repo
 
